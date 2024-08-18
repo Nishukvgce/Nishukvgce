@@ -8,31 +8,11 @@
 <h3 align="left">About Me:</h3>
 <p align="left">I am a dedicated and enthusiastic full stack developer with experience in both front-end and back-end technologies. My passion for coding and problem-solving drives me to continuously learn and improve my skills. I enjoy working on diverse projects and contributing to innovative solutions in the tech industry.</p>
 
-<h3 align="left">Skills:</h3>
-<ul align="left">
-  <li>Full Stack Development</li>
-  <li>Front-End Technologies: HTML, CSS, JavaScript, React</li>
-  <li>Back-End Technologies: Node.js, Express.js, PHP</li>
-  <li>Databases: MySQL, MongoDB</li>
-  <li>Programming Languages: C, C++, Java</li>
-  <li>Version Control: Git</li>
-</ul>
 
-<h3 align="left">Projects:</h3>
-<ul align="left">
-  <li><strong>Blog Application:</strong> Developed a full-featured blog application using React, Appwrite, and Redux, focusing on user authentication and state management.</li>
-  <li><strong>Currency Converter:</strong> Created a web application for real-time currency conversion using React and API integration.</li>
-  <li><strong>Online Library Management System:</strong> Built a library management system with PHP and PostgreSQL to streamline book borrowing and returns.</li>
-  <li><strong>Blood Bank and Donation Management System:</strong> Developed a system for managing blood donations and inventory using HTML, CSS, and JavaScript.</li>
-  <li><strong>Attendance System:</strong> Implemented an automated attendance system using Python and OpenCV for face recognition.</li>
-  <li><strong>E-commerce Website:</strong> Created an e-commerce platform with Django and PostgreSQL, featuring product management and secure checkout.</li>
-</ul>
 
-<h3 align="left">Achievements:</h3>
-<ul align="left">
-  <li>Earned certifications in Full Stack Web Development, React, JavaScript, and C programming.</li>
-  <li>Led the college graphics design team, organizing projects and events, and conducted a web development workshop.</li>
-</ul>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
